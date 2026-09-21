@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Downloaded/cached data (regenerated automatically, no need to commit)
+data/cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor/OS
+.vscode/
+.DS_Store
+
+# Environment variables (if you ever add an API key file)
+.env
